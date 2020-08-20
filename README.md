@@ -5,12 +5,14 @@
 > salário bruto, com informação escrita e também através de um
 > componente visual.
 
+![](https://user-images.githubusercontent.com/22210171/90790653-b1b0ea00-e2de-11ea-845c-12c9e23ce158.gif)
+
 ## Técnologias
 
 - React
   - Functional Components
   - Hooks
-  - Materialize
+- Materialize
 
 ## Instalação
 
